@@ -1,0 +1,27 @@
+.EightBall-ball {
+  width: 300px;
+  height: 300px;
+  border-radius: 100%;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.6rem;
+  padding: 0 10px;
+}
+
+.EightBall-restart {
+    width: 200px;
+    height: 40px;
+    margin-top: 40px;
+    font-size: 1.2rem;
+    border-radius: 6px;
+    background-color: rgb(22, 23, 34);
+    color: white;
+}
+
+
+.EightBall-restart:hover {
+    background-color: rgb(228, 228, 228);
+    color: black;
+}
